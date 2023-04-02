@@ -22,3 +22,4 @@ MAB_2297,transcript_ablation,macrolides,sensitivity,Override=MAB_2297:functional
 MAB_2297,p.Trp10Arg,macrolides,sensitivity,Override=MAB_2297:functionally_normal,10.1128/JCM.02950-14
 MAB_2297,functionally_normal,macrolides,resistance,,10.1038/s41467-021-25484-9
 MAB_2355c,functionally_normal,macrolides,resistance,,10.1128/AAC.00330-21
+MAB_1846,functionally_normal,macrolides,resistance,,10.2147/IDR.S239850
